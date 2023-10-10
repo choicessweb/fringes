@@ -500,14 +500,14 @@ a:focus {
     position: relative;
     background-position: center;
     background-size: cover;
-    animation: image 15s infinite alternate;
-    height: 500px;
+    height: 300px;
     width: 100%;
     border-radius: 25px;
     margin-top: 50px;
     margin-left: 200px;
     margin-right: -15px;
     margin-bottom: 30px;
+     float: right;
   }
 
   .frame__info {
